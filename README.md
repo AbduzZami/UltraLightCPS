@@ -1,6 +1,9 @@
 # UltraLightCPS
 This work is published in Biomedical Signal Processing and Control Journal
 
+# Paper Link
+https://www.sciencedirect.com/science/article/pii/S1746809426007160
+
 
 
 
